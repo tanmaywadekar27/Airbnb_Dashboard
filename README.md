@@ -180,5 +180,5 @@ Other measures: `Superhost Listings`, `No Superhost Listings`, `Cumulative %` (P
 
 ## Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+Tanmay Wadekar
+
