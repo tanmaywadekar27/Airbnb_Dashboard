@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard analysing Airbnb listings, hosts, ratings and reviews across 10 major cities worldwide. It covers market growth over time, city market share, guest ratings, reviewer behaviour and host trust signals.
 
-![Overview](Screenshot/Overview.png)
+![Overview](Overview.png)
 
 ---
 
@@ -23,7 +23,7 @@ Cities covered: Paris, New York, Sydney, Rome, Rio de Janeiro, Istanbul, Mexico 
 ## Dashboard Pages
 
 ### 1. Overview: Airbnb's growth story
-![Overview](Screenshot/Overview.png)
+![Overview](Overview.png)
 
 - KPI cards for listings, cities, hosts, property types and reviews.
 - Line chart of new listings by host-joined year and room type, annotated with the stages of the business lifecycle: **Introduction, Growth, Maturity, Decline, Reinvention and COVID-19**.
@@ -31,7 +31,7 @@ Cities covered: Paris, New York, Sydney, Rome, Rio de Janeiro, Istanbul, Mexico 
 **Insight:** New listings peaked in **2015**. 2016 and 2017 saw a slowdown linked to tighter local regulations, followed by renewed growth from 2018 that was halted by the COVID-19 pandemic. Entire places and private rooms drive almost all of the volume.
 
 ### 2. Ratings: Market share and guest satisfaction
-![Ratings](Screenshot/Ratings.png)
+![Ratings](Ratings.png)
 
 - **Pareto chart** of listings by city, split into superhost and non-superhost listings, with a cumulative % line.
 - Average price by room type.
@@ -44,7 +44,7 @@ Cities covered: Paris, New York, Sydney, Rome, Rio de Janeiro, Istanbul, Mexico 
 - Mexico City and Rio de Janeiro are the best-rated cities. Hong Kong and Istanbul score lowest. Cleanliness and value for money are generally the lowest-scoring metrics.
 
 ### 3. Reviews: Reviewer behaviour and trust
-![Reviews](Screenshot/Review.png)
+![Reviews](Review.png)
 
 - **Review frequency** combo chart: number of reviewers by reviews written, with a cumulative % line.
 - **Seasonality** ribbon chart: share of monthly reviews by city.
